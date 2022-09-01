@@ -25,4 +25,5 @@ change.addEventListener('click', () => {
 
 reset.addEventListener('click', () => {
     inp.value = "";
+    alert.innerHTML = "";
 })
